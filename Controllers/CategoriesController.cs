@@ -10,9 +10,9 @@ namespace Practice.Controllers
     public class CategoriesController(PracticeDbContext _context) : ControllerBase
     {
         [HttpGet]
-        public async Task<IActionResult> Read()
+        public async Task<IActionResult> Read(CategoryItemDto dto)
         {
-            return Ok();
+            return Ok($"Category {dto}");
         }
 
 
@@ -24,12 +24,12 @@ namespace Practice.Controllers
                 Name = dto.Name,
             });
             await _context.SaveChangesAsync();
-            return Ok();
+            return Ok("Category created succesfully");
         }
        
 
         [HttpPut]
-        public async Task<IActionResult> Update(int? id)
+        public async Task<IActionResult> Update(int? id, string name)
         {
 
             if (!id.HasValue) throw new ArgumentNullException("Code cannot be null or empty");
@@ -37,12 +37,12 @@ namespace Practice.Controllers
             var data = await _context.Categories.FindAsync(id);
 
             if (data is null) throw new KeyNotFoundException("Data not found for the given code");
-            CategoryUpdateDto _dto = new();
-            _dto.Name=data.Name;
+           
+            data.Name= name;
 
 
             await _context.SaveChangesAsync();
-            return Ok();
+            return Ok("Category updated succesfully");
         }
 
 
@@ -56,7 +56,8 @@ namespace Practice.Controllers
 
             if (data is null) throw new KeyNotFoundException("Data not found for the given code");
             _context.Categories.Remove(data);
-            return Ok();
+            await _context.SaveChangesAsync();
+            return Ok("Category deleted succesfully");
         }
     }
 }

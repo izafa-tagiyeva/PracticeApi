@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|c:\\users\\izafe\\onedrive\\desktop\\practiceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|c:\\users\\izafe\\onedrive\\desktop\\practiceapi\\dtos\\categories\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|solutionrelative:dtos\\categories\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|c:\\users\\izafe\\onedrive\\desktop\\practiceapi\\dtos\\categories\\categoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|solutionrelative:dtos\\categories\\categoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|c:\\users\\izafe\\onedrive\\desktop\\practiceapi\\dtos\\categories\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|solutionrelative:dtos\\categories\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|c:\\users\\izafe\\onedrive\\desktop\\practiceapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|c:\\users\\izafe\\onedrive\\desktop\\practiceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|c:\\users\\izafe\\onedrive\\desktop\\practiceapi\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +31,8 @@
       "RelativeMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|solutionrelative:entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|c:\\users\\izafe\\onedrive\\desktop\\practiceapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|c:\\users\\izafe\\onedrive\\desktop\\practiceapi\\dal\\practicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|solutionrelative:dal\\practicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|c:\\users\\izafe\\onedrive\\desktop\\practiceapi\\dtos\\categories\\categoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|solutionrelative:dtos\\categories\\categoryitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|c:\\users\\izafe\\onedrive\\desktop\\practiceapi\\dtos\\categories\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|solutionrelative:dtos\\categories\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\Migrations\\20241219221742_CreatedCategoriesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241219221742_CreatedCategoriesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|c:\\users\\izafe\\onedrive\\desktop\\practiceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -53,6 +49,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|c:\\users\\izafe\\onedrive\\desktop\\practiceapi\\practice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|solutionrelative:practice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|c:\\users\\izafe\\onedrive\\desktop\\practiceapi\\migrations\\20241219221742_createdcategoriestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6B8154-4179-4B1F-82A2-C543D1EBDA91}|Practice.csproj|solutionrelative:migrations\\20241219221742_createdcategoriestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "CategoryItemDto.cs",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\DTOs\\Categories\\CategoryItemDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Categories\\CategoryItemDto.cs",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CategoryCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\DTOs\\Categories\\CategoryCreateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Categories\\CategoryCreateDto.cs",
@@ -92,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PracticeDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\DAL\\PracticeDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\PracticeDbContext.cs",
@@ -100,12 +100,11 @@
               "RelativeToolTip": "DAL\\PracticeDbContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T15:20:53.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T15:20:53.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Categories.cs",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\Entities\\Categories.cs",
               "RelativeDocumentMoniker": "Entities\\Categories.cs",
@@ -113,12 +112,11 @@
               "RelativeToolTip": "Entities\\Categories.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:32:23.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T14:32:23.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Entities\\BaseEntity.cs",
@@ -126,38 +124,37 @@
               "RelativeToolTip": "Entities\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:37:46.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T14:37:46.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T14:30:35.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T15:22:21.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "CategoryUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\DTOs\\Categories\\CategoryUpdateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Categories\\CategoryUpdateDto.cs",
@@ -170,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "20241219221742_CreatedCategoriesTable.cs",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\Migrations\\20241219221742_CreatedCategoriesTable.cs",
               "RelativeDocumentMoniker": "Migrations\\20241219221742_CreatedCategoriesTable.cs",
@@ -178,12 +175,11 @@
               "RelativeToolTip": "Migrations\\20241219221742_CreatedCategoriesTable.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T22:17:43.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T22:17:43.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "20241219215821_CreatedCategoriesTable.cs",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\Migrations\\20241219215821_CreatedCategoriesTable.cs",
               "RelativeDocumentMoniker": "Migrations\\20241219215821_CreatedCategoriesTable.cs",
@@ -191,12 +187,11 @@
               "RelativeToolTip": "Migrations\\20241219215821_CreatedCategoriesTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T21:58:21.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T21:58:21.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -204,12 +199,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-19T15:26:34.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T15:26:34.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -221,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Practice.csproj",
               "DocumentMoniker": "C:\\Users\\Izafe\\OneDrive\\Desktop\\PracticeApi\\Practice.csproj",
               "RelativeDocumentMoniker": "Practice.csproj",
