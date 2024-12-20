@@ -10,9 +10,13 @@ namespace Practice.Controllers
     public class CategoriesController(PracticeDbContext _context) : ControllerBase
     {
         [HttpGet]
-        public async Task<IActionResult> Read(CategoryItemDto dto)
+        public async Task<IActionResult> Read()
         {
-            return Ok($"Category {dto}");
+
+           var data = _context.Categories.ToList();
+
+
+            return Ok(data);
         }
 
 
